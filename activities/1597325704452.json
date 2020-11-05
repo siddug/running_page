@@ -1,0 +1,174 @@
+{
+    "id": "66b7ad7c-a601-4531-8d0d-367708349878",
+    "type": "run",
+    "app_id": "com.nike.sport.running.droid",
+    "start_epoch_ms": 1597325642503,
+    "end_epoch_ms": 1597325704452,
+    "last_modified": 1597678455758,
+    "active_duration_ms": 61949,
+    "session": false,
+    "delete_indicator": false,
+    "summaries": [
+        {
+            "metric": "distance",
+            "summary": "total",
+            "source": "com.nike.running.manualentry",
+            "app_id": "com.nike.sport.running.droid",
+            "value": 0.12
+        },
+        {
+            "metric": "pace",
+            "summary": "mean",
+            "source": "com.nike.running.manualentry",
+            "app_id": "com.nike.sport.running.droid",
+            "value": 8.604027777777778
+        },
+        {
+            "metric": "speed",
+            "summary": "mean",
+            "source": "com.nike.running.manualentry",
+            "app_id": "com.nike.sport.running.droid",
+            "value": 6.9734781836672095
+        },
+        {
+            "metric": "calories",
+            "summary": "total",
+            "source": "com.nike.running.manualentry",
+            "app_id": "com.nike.sport.running.droid",
+            "value": 7.634096675359278
+        },
+        {
+            "metric": "nikefuel",
+            "summary": "mean",
+            "source": "com.nike.nikefuelengine.1.0-A5.0",
+            "app_id": "com.nike.sport.running.droid",
+            "value": 27.199154084749196
+        },
+        {
+            "metric": "nikefuel",
+            "summary": "total",
+            "source": "com.nike.nikefuelengine.1.0-A5.0",
+            "app_id": "com.nike.sport.running.droid",
+            "value": 28.082673273268803
+        }
+    ],
+    "sources": [
+        "com.nike.running.manualentry",
+        "com.nike.nikefuelengine.1.0-A5.0"
+    ],
+    "tags": {
+        "com_nike_name": "61/200 10m tabata",
+        "evaluation_run_disqualified": "true",
+        "evaluation_run_version": "2.0.0",
+        "location": "OUTDOORS"
+    },
+    "change_tokens": [
+        "159032bd92acfb7fe00096e71798259b85a03cc92733829f645cdbe0f4ebf33d:1597678455758",
+        "f925a6e7123b42c09248a8061d0d5876f94cf25bd3bcb9638f216d830b2f2a36:1597678455382"
+    ],
+    "metric_types": [
+        "distance",
+        "pace",
+        "calories",
+        "speed",
+        "nikefuel"
+    ],
+    "metrics": [
+        {
+            "type": "distance",
+            "unit": "KM",
+            "source": "com.nike.running.manualentry",
+            "appId": "com.nike.sport.running.droid",
+            "values": [
+                {
+                    "start_epoch_ms": 1597325642503,
+                    "end_epoch_ms": 1597325704452,
+                    "value": 0.12
+                }
+            ]
+        },
+        {
+            "type": "speed",
+            "unit": "KMH",
+            "source": "com.nike.running.manualentry",
+            "appId": "com.nike.sport.running.droid",
+            "values": [
+                {
+                    "start_epoch_ms": 1597325642503,
+                    "end_epoch_ms": 1597325704452,
+                    "value": 6.973371314831259
+                }
+            ]
+        },
+        {
+            "type": "pace",
+            "unit": "MKM",
+            "source": "com.nike.running.manualentry",
+            "appId": "com.nike.sport.running.droid",
+            "values": [
+                {
+                    "start_epoch_ms": 1597325642503,
+                    "end_epoch_ms": 1597325704452,
+                    "value": 8.604159636873126
+                }
+            ]
+        },
+        {
+            "type": "calories",
+            "unit": "KCAL",
+            "source": "com.nike.running.manualentry",
+            "appId": "com.nike.sport.running.droid",
+            "values": [
+                {
+                    "start_epoch_ms": 1597325642503,
+                    "end_epoch_ms": 1597325704452,
+                    "value": 7.634096675359278
+                }
+            ]
+        },
+        {
+            "type": "nikefuel",
+            "unit": "FUEL",
+            "source": "com.nike.nikefuelengine.1.0-A5.0",
+            "appId": "com.nike.sport.running.droid",
+            "values": [
+                {
+                    "start_epoch_ms": 1597325642503,
+                    "end_epoch_ms": 1597325652000,
+                    "value": 1.989330836890788
+                },
+                {
+                    "start_epoch_ms": 1597325652000,
+                    "end_epoch_ms": 1597325662000,
+                    "value": 4.348890406063003
+                },
+                {
+                    "start_epoch_ms": 1597325662000,
+                    "end_epoch_ms": 1597325672000,
+                    "value": 4.348890406063003
+                },
+                {
+                    "start_epoch_ms": 1597325672000,
+                    "end_epoch_ms": 1597325682000,
+                    "value": 4.348890406063003
+                },
+                {
+                    "start_epoch_ms": 1597325682000,
+                    "end_epoch_ms": 1597325692000,
+                    "value": 4.348890406063003
+                },
+                {
+                    "start_epoch_ms": 1597325692000,
+                    "end_epoch_ms": 1597325702000,
+                    "value": 4.348890406063003
+                },
+                {
+                    "start_epoch_ms": 1597325702000,
+                    "end_epoch_ms": 1597325704452,
+                    "value": 4.348890406063003
+                }
+            ]
+        }
+    ],
+    "moments": []
+}
