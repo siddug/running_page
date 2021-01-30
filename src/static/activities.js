@@ -1426,6 +1426,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 1.8822219508510893,
     "streak": 1
+  },
+  {
+    "run_id": 1611928477725,
+    "name": "run from gpx",
+    "distance": 3903.448648992053,
+    "moving_time": "0:31:57.095000",
+    "type": "Run",
+    "start_date": "2021-01-29 13:54:37",
+    "start_date_local": "2021-01-29 19:24:37",
+    "location_country": "Salarpuria Greenage, Hongasandra Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560 068, India",
+    "summary_polyline": "quvmAw}xxMzEr@g@rCyCIqAt@}BoAwAlCcAm@i@g@p@[?g@eAc@j@cATqF`@iAp@@p@vA`CdBRhAdG~@PZ{@fBw@L_BMmBp@sAgAwAfC_By@Q]t@o@{@eAdAiJ\\Wd@J|DdEOd@T\\rGlA_@|BoDKeBn@iBg@mAxByByAt@y@}@s@f@aAh@gItAPXjAjCjBLhArGx@q@pCuBAk@]TiCaBc@",
+    "average_heartrate": null,
+    "average_speed": 2.0361268737292906,
+    "streak": 1
   }
 ];
 
