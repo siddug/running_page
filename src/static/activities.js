@@ -1510,6 +1510,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 0.7780582612728464,
     "streak": 2
+  },
+  {
+    "run_id": 1612883065831,
+    "name": "run from gpx",
+    "distance": 2164.409773363386,
+    "moving_time": "0:18:10.322000",
+    "type": "Run",
+    "start_date": "2021-02-09 15:04:25",
+    "start_date_local": "2021-02-09 20:34:25",
+    "location_country": "Nagaram, Keesara mandal, Medchal\u2013Malkajgiri, Telangana, 500083, India",
+    "summary_polyline": "w{uiBcqx~McCeBjC_JbKmUvBw@p@ZSt@}Ae@n@s@r@VE|@yAY\\m@d@A`@PK|@wA]N]x@I^TSx@uAk@Ta@z@@ZX[p@kAc@|@o@`@PBf@]VgAi@bAe@b@LKv@{ASJc@x@I`@TIh@iAGUi@dAYf@d@Yp@_Ba@",
+    "average_heartrate": null,
+    "average_speed": 1.9851106126111244,
+    "streak": 1
   }
 ];
 
