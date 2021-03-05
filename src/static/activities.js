@@ -1538,6 +1538,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 1.325412095710318,
     "streak": 1
+  },
+  {
+    "run_id": 1614864992015,
+    "name": "run from gpx",
+    "distance": 5531.632164370542,
+    "moving_time": "2:45:50.016000",
+    "type": "Run",
+    "start_date": "2021-03-04 13:36:32",
+    "start_date_local": "2021-03-04 19:06:32",
+    "location_country": "Apple Fitness, 25333, 24th Main Road, Sector 1, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560102, India",
+    "summary_polyline": "u{xmAky|xMvfAd{Bh@XJr@m@hBmD^m@s@yA?k@c@dAa@[{Br@Ij@x@z@_@iE{Dd@SUn@Ua@t@XQ`@VhA_AjDxBcCi@Ek@b@m@nBf@{@LaEjBrA{A_B[d@]pFPxAjBi@vAn@lASp@eEpCZ_Is@kAiB[~CCu@e@hAp@iAfAOyAsBMjBR\\\\QDgAw@UJrD~@Zt@s@w@}BeA_AIjAH_@L`AFyD",
+    "average_heartrate": null,
+    "average_speed": 0.5559420371153717,
+    "streak": 1
   }
 ];
 
