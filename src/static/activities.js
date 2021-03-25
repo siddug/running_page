@@ -1566,6 +1566,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.2339643570121193,
     "streak": 1
+  },
+  {
+    "run_id": 1616592683345,
+    "name": "run from gpx",
+    "distance": 2355.934159461335,
+    "moving_time": "0:29:19.968000",
+    "type": "Run",
+    "start_date": "2021-03-24 13:31:23",
+    "start_date_local": "2021-03-24 19:01:23",
+    "location_country": "UCO Bank, 14th Main Road, HSR Layout, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
+    "summary_polyline": "ooxmAmszxMtAs@Ee@vWbs@jUuBQv@LjEn@|Ac@l@Pr@lDj@nC[j@gDjBJa@dD}@[NoCWOyFW_Au@ZfB",
+    "average_heartrate": null,
+    "average_speed": 1.3386232928447195,
+    "streak": 1
   }
 ];
 
