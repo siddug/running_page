@@ -1594,6 +1594,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 1.6139690611446604,
     "streak": 1
+  },
+  {
+    "run_id": 1617276791254,
+    "name": "run from gpx",
+    "distance": 2073.3913318998257,
+    "moving_time": "0:35:20.360000",
+    "type": "Run",
+    "start_date": "2021-04-01 11:33:11",
+    "start_date_local": "2021-04-01 17:03:11",
+    "location_country": "13th Main Road, HSR Layout, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
+    "summary_polyline": "soxmA{qzxMJg@u@B\\Vb@gAg@j@f@@OJJa@QHRQ_@NDd@HiA?fA@U_@Pl@a@[Y[d@p@Du@?TNIYYp@Ac@v@CML`@[MKKj@x@y@]Sa@dAAi@VJk@sADkAhp@xs@LS[B^W",
+    "average_heartrate": null,
+    "average_speed": 0.9778487294137911,
+    "streak": 1
   }
 ];
 
