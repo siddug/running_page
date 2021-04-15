@@ -1608,6 +1608,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 0.9778487294137911,
     "streak": 1
+  },
+  {
+    "run_id": 1618409626323,
+    "name": "run from gpx",
+    "distance": 2287.6435401524946,
+    "moving_time": "0:17:45.969000",
+    "type": "Run",
+    "start_date": "2021-04-14 14:13:46",
+    "start_date_local": "2021-04-14 19:43:46",
+    "location_country": "CULT Fitness center, 15th Cross Road, Sector 1, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 5560034, India",
+    "summary_polyline": "_dymAe_|xMGX|D?v@^|_Ar{AyAsBV~@_@tGvAhAhAF",
+    "average_heartrate": null,
+    "average_speed": 2.1460694824638376,
+    "streak": 1
   }
 ];
 
