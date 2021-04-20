@@ -1650,6 +1650,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 1.0555369552559324,
     "streak": 2
+  },
+  {
+    "run_id": 1618745566929,
+    "name": "run from gpx",
+    "distance": 1226.870057810887,
+    "moving_time": "0:23:48.933000",
+    "type": "Run",
+    "start_date": "2021-04-18 11:32:46",
+    "start_date_local": "2021-04-18 17:02:46",
+    "location_country": "KPTCL, 24th Main Road, Sector 1, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
+    "summary_polyline": "yyxmAey|xMi@XrNpbAN[_@Kb@N",
+    "average_heartrate": null,
+    "average_speed": 0.8585917309005299,
+    "streak": 3
   }
 ];
 
