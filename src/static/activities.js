@@ -1748,6 +1748,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 1.074995258852306,
     "streak": 1
+  },
+  {
+    "run_id": 1621001495631,
+    "name": "run from gpx",
+    "distance": 3640.5514020274377,
+    "moving_time": "0:27:38.989000",
+    "type": "Run",
+    "start_date": "2021-05-14 14:11:35",
+    "start_date_local": "2021-05-14 19:41:35",
+    "location_country": "Keesara mandal, Medchal\u2013Malkajgiri, Telangana, 500083, India",
+    "summary_polyline": "}iuiBkvy~M[p@uAk@pAWVZOd@yAu@|AGLb@W^mAo@^[v@DN`@S`@{Am@~@i@b@PMbAsAm@l@a@v@TDb@c@VeA_A~AAHf@]VoAo@Z[z@FXZSd@yAe@Rc@x@?\\Z[n@sAq@\\[x@FVZMf@_Be@bAc@j@^Md@_B]b@i@t@FT`@Q`@}Au@r@Yt@T?f@_@TmAw@xAMT^Q`@{Ae@Va@v@C\\ZUr@wAo@h@c@z@PS~@y@UKe@b@Qt@RBf@]Ry@UIc@`@Wx@LHd@YZmAu@dAWb@ZUp@uAo@l@_@t@RS`AqAw@t@]t@T]x@kAq@l@_@t@V]|@eAu@jAEP`@W\\aCi@eDlH",
+    "average_heartrate": null,
+    "average_speed": 2.194439747356635,
+    "streak": 1
   }
 ];
 
