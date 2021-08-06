@@ -2014,6 +2014,34 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.2447364030353554,
     "streak": 2
+  },
+  {
+    "run_id": 1628086259855,
+    "name": "run from gpx",
+    "distance": 3065.637677174404,
+    "moving_time": "0:25:00.090000",
+    "type": "Run",
+    "start_date": "2021-08-04 14:10:59",
+    "start_date_local": "2021-08-04 19:40:59",
+    "location_country": "Salarpuria Greenage, Hongasandra Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560 068, India",
+    "summary_polyline": "g}vmAabyxMpDnCbG`@b@h@g@dC}CGuBj@mBo@u@lBg@A_BeAt@mA_A}@b@}HdBeBTdAzDfDDhApGfA_@rCeDEwBf@wAm@s@P]`ByAi@i@y@v@iAaAc@f@}H|@oAvFfEFtAzEb@p@b@a@nCgDGqBl@qDaA^kA",
+    "average_heartrate": null,
+    "average_speed": 2.0436358332996045,
+    "streak": 1
+  },
+  {
+    "run_id": 1628174572359,
+    "name": "run from gpx",
+    "distance": 2454.974915168873,
+    "moving_time": "0:20:00.141000",
+    "type": "Run",
+    "start_date": "2021-08-05 14:42:52",
+    "start_date_local": "2021-08-05 20:12:52",
+    "location_country": "Salarpuria Greenage, Hongasandra Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560 068, India",
+    "summary_polyline": "wrvmAc}xxMdCl@k@lCkDOmBn@e@{AwAbC{@X}AoAp@w@w@s@n@cE]oBf@wAv@K|AvB`C|ABdAfGtAg@bCuDIoAl@u@aAq@LuAtBoAo@a@o@r@[Fe@_Am@v@sDKoCPi@z@_@|BvCxA|@BfAfC`@[dD",
+    "average_heartrate": null,
+    "average_speed": 2.0455720745886303,
+    "streak": 2
   }
 ];
 
