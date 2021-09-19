@@ -2140,6 +2140,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.1425152003582353,
     "streak": 1
+  },
+  {
+    "run_id": 1631972815033,
+    "name": "run from gpx",
+    "distance": 1854.922255803168,
+    "moving_time": "0:07:40.017000",
+    "type": "Run",
+    "start_date": "2021-09-18 13:46:55",
+    "start_date_local": "2021-09-18 19:16:55",
+    "location_country": "Third Wave Coffee Roasters, 249, 14th Main Road, HSR Layout, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560102, India",
+    "summary_polyline": "{nxmAmtzxMn@SDw@Ft@|DRRnDY`KnGD`@n@xBvH\\dMt@zFh@LtJsFrG{Bl@VTbCj@HjAtAoAo@JVh@u@k@`A",
+    "average_heartrate": null,
+    "average_speed": 4.032290667090929,
+    "streak": 1
   }
 ];
 
