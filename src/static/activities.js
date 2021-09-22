@@ -2154,6 +2154,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 4.032290667090929,
     "streak": 1
+  },
+  {
+    "run_id": 1632194082389,
+    "name": "run from gpx",
+    "distance": 2956.9702800898367,
+    "moving_time": "0:07:01.356000",
+    "type": "Run",
+    "start_date": "2021-09-21 03:14:42",
+    "start_date_local": "2021-09-21 08:44:42",
+    "location_country": "Sankalp Netralaya and Polyclinic, 15th Cross Road, Sector 1, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560102, India",
+    "summary_polyline": "mcymAs~{xMh@\\lE?FXa@vVBj`@p]d@dCjKfA|SbAK~RuIcAv@nBKPbBx@RbAjA",
+    "average_heartrate": null,
+    "average_speed": 7.017748127687364,
+    "streak": 1
   }
 ];
 
