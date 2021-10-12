@@ -2196,6 +2196,34 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 4.422753172948029,
     "streak": 1
+  },
+  {
+    "run_id": 1633662854030,
+    "name": "run from gpx",
+    "distance": 3352.70940187786,
+    "moving_time": "0:08:09.996000",
+    "type": "Run",
+    "start_date": "2021-10-08 03:14:14",
+    "start_date_local": "2021-10-08 08:44:14",
+    "location_country": "Apple Fitness, 25333, 24th Main Road, Sector 1, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560102, India",
+    "summary_polyline": "u{xmAay|xMTdF[rIPfHeAnLOtOb@`JEfPvNt@vNA|BlMIpFbAbJ|AQnQ}HJMcA]|@dApANAjAd@BxA`B",
+    "average_heartrate": null,
+    "average_speed": 6.842319941138007,
+    "streak": 1
+  },
+  {
+    "run_id": 1633919450625,
+    "name": "run from gpx",
+    "distance": 2094.8715637213595,
+    "moving_time": "0:11:07.965000",
+    "type": "Run",
+    "start_date": "2021-10-11 02:30:50",
+    "start_date_local": "2021-10-11 08:00:50",
+    "location_country": "HSR Layout, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 380068, India",
+    "summary_polyline": "ipxmAouzxM@bAl@f@G]Dp@_AsB~HZRfFSnHxDz@tBFrBlJBpHpAvJ`AEzAiAxCu@dHmDfAeAg@KYLNRd@h@z@CTbB`A\\~@rAeBEa@zBf@oB",
+    "average_heartrate": null,
+    "average_speed": 3.1361995968671397,
+    "streak": 1
   }
 ];
 
